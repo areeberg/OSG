@@ -1,4 +1,4 @@
-# Psafe-OSG repo
+# OSG repo
 
 ## This repository includes:
 - In the dataset_sha256 folder there are the sha-256 of files used in the paper.
