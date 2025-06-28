@@ -1,24 +1,11 @@
 # Welcome to the OSG (Opcode Sequence Graph) repo
 
+Please, cite the papers properly if used!
 
 
-        @@            @@        
-        @@            @@        
-         @@          @@         
-          @@@@@@@@@@@@          
-           @@@@@@@@@@           
-          @@@ @@@@ @@@          
-   @@    @@@@@@@@@@@@@@    @@   
-  @@@@@@@              @@@@@@@  
-@@@     @@@@@@@  @@@@@@@     @@@
-         @@@@@@  @@@@@@         
-  @@@@@@@@@@@@  @@@@@@@@@@@@@  
- @@@     @@@@@@  @@@@@@     @@@ 
-@@   @@@@@@@@@@  @@@@@@@@@@   @@
-     @@   @@@@@  @@@@@   @@     
-     @@     @@@  @@@     @@     
-     @@       @  @       @@     
-     @@                  @@     
+    - de Mello, A. R., Lemos, V. G., Barbosa, F. G., & Simoni, E. Malware identification on Portable Executable files using Opcodes Sequence. Page: 8, DOI: 10.21528/CBIC2023-006, https://sbic.org.br/wp-content/uploads/2023/10/pdf/CBIC_2023_paper006.pdf
+
+    - Explainable Boosting Classifier for malware detection and local explanation (Poster), Alexandre Reeberg de Mello, Vitor Gama Lemos, Emilio Simoni 2023/4/3, HotSoS - Hot Topics in the Science of Security, Volume 9, Edition 9, Pages 206, https://sos-vo.org/sites/sos-vo.org/files/2024-02/AR%20FINAL%2023_20231130.pdf
 
 
 
